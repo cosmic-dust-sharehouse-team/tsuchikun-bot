@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.11",
+    "discord.js": "^13.16.0"
+  }
+}
